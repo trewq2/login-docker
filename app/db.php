@@ -1,7 +1,7 @@
 <?php
-$servername = "db";
-$username = "loginuser";
-$password = "loginpass";
+$servername = "render-hostname";
+$username = "renderuser";
+$password = "renderpass";
 $dbname = "logindb";
 
 try {
